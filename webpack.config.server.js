@@ -9,7 +9,7 @@ const config = {
     target: "node",
     output: {
         path: path.join(CURRENT_WORKING_DIR, '/dist/'),
-        filename: 'server.generated.js',
+        filename: "server.generated.js",
         publicPath: '/dist/',
         libraryTarget: 'commonjs2'
     },
@@ -20,6 +20,10 @@ const config = {
                 test: /\.js?$/,
                 exclude: /node_modules/,
                 use: ['babel-loader']
+            },
+            {
+                test: /\.(ttf|eot|svg|gif|jpg|png)(\?[\s\S]+)?$/,
+                use: 'file-loader'
             }
         ]
     }

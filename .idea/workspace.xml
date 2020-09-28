@@ -7,6 +7,12 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
   <component name="PackageJsonUpdateNotifier">
     <dismissed value="$PROJECT_DIR$/package.json" />
   </component>
@@ -20,9 +26,13 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/server" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\joshe\projects\expenseTracker\client\auth" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\joshe\projects\expenseTracker\server" />
       <recent name="C:\Users\joshe\projects\expenseTracker" />
@@ -37,6 +47,13 @@
       <option name="presentableId" value="Default" />
       <updated>1601015658165</updated>
       <workItem from="1601015659327" duration="3283000" />
+      <workItem from="1601041993323" duration="132000" />
+      <workItem from="1601042762404" duration="8980000" />
+      <workItem from="1601265913309" duration="7354000" />
+      <workItem from="1601304332984" duration="8331000" />
+      <workItem from="1601316685765" duration="26000" />
+      <workItem from="1601316720391" duration="221000" />
+      <workItem from="1601325784572" duration="4999000" />
     </task>
     <servers />
   </component>
@@ -44,6 +61,18 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="0" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1601316941134">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="0" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1601316941134" />
+    <state x="208" y="325" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1601044583242">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="208" y="325" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1601044583242" />
+    <state x="0" y="168" key="SettingsEditor" timestamp="1601316656602">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="0" y="168" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1601316656602" />
     <state x="74" y="159" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1601018455069">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

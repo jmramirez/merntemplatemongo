@@ -1,8 +1,8 @@
 {
-  "name": "merntemplatemongo",
+  "name": "expensetracker",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "./dist/server.generated.js",
   "scripts": {
     "development": "nodemon",
     "build": "webpack --config webpack.config.client.production.js && webpack --mode=production --config webpack.config.server.js",
@@ -30,7 +30,7 @@
     "cors": "^2.8.5",
     "express": "^4.17.1",
     "express-jwt": "^6.0.0",
-    "helmet": "^4.1.1",
+    "helmet": "^3.23.3",
     "jsonwebtoken": "^8.5.1",
     "lodash": "^4.17.20",
     "mongoose": "^5.10.7",
